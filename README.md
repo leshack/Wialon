@@ -1,5 +1,7 @@
 # Wialon Fleet Management System
 
+![Wialon Logo](wialon.png)
+
 ## Getting Started
 
 To get started with this project, follow these steps:
