@@ -1,0 +1,8 @@
+# .gitignore
+.env
+*.csv
+*.json
+wialonenv/
+auth.py
+securex.py
+Links.txt
