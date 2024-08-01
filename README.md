@@ -36,6 +36,13 @@ source env/bin/activate
 pip install -r requirements.txt
 ```
 
+### 4. Run the Script
+
+```sh
+python wialon.py
+```
+*N/B- If username on the .env defaults to user pc username kindly declare it on the wialon.py file
+
 ### Important Links of Wialon 
 
 https://hosting.wialon.com/?lang=en

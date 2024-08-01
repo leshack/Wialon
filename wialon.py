@@ -20,7 +20,7 @@ class Wialon:
     def __init__(self):
         self.CLIENT_ID = os.getenv('CLIENT_ID')
         # self.USERNAME = os.getenv('USERNAME')
-        self.USERNAME = 'Kenpoly'
+        self.USERNAME = ''
         self.PASSWORD = os.getenv('PASSWORD')
         self.BASE_API_URL = os.getenv('BASE_API_URL')
         self.REDIRECT_URI = os.getenv('REDIRECT_URI')
